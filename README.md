@@ -22,17 +22,8 @@ I am passionate about building intelligent systems, training neural networks, an
 
 ---
 
-### 📊 GitHub Analytics
-
-<p align="left">
-<img src="https://vercel.app" alt="SKS GitHub Stats" height="180px"/>
-<img src="https://vercel.app" alt="SKS Top Languages" height="180px"/>
-</p>
-
----
-
 ### 🤝 Connect with Me
-*   **LinkedIn:** [Your LinkedIn Profile Link]([https://linkedin.com](https://www.linkedin.com/in/krishna -shashanth-sanga-14bb57343))
-*   **Email:** sangakrishnashashanth.com
+*   **LinkedIn:** [Sanga Krishna Shashanth]([https://linkedin.com](https://www.linkedin.com/in/krishna -shashanth-sanga-14bb57343))
+*   **Email:** sangakrishnashashanth@gmail.com
 
 "The best way to predict the future is to invent it." 🚀
