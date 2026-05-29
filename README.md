@@ -18,7 +18,7 @@ I am passionate about building intelligent systems, training neural networks, an
 ---
 
 ### 🧠 Featured Projects
-*   **[Deep Learning Neural Network]()** - An AI model built and trained using Google Colab. *Optimized with AI assistance.*
+*   **[Deep Learning Neural Network](https://github.com/krishnashashanth-sks/advanced-deeplearning)** - An AI model built and trained using Google Colab. *Optimized with AI assistance.*
 
 ---
 
