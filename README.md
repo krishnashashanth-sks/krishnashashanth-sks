@@ -18,12 +18,12 @@ I am passionate about building intelligent systems, training neural networks, an
 ---
 
 ### 🧠 Featured Projects
-*   **[Deep Learning Neural Network](https://github.com/krishnashashanth-sks/advanced-deeplearning)** - An AI model built and trained using Google Colab. *Optimized with AI assistance.*
+*   **[Deep Learning Neural Network](https://github.com/krishnashashanth-sks/deeplearning-architectures-hub)** - An AI model built and trained using Google Colab. *Optimized with AI assistance.*
 
 ---
 
 ### 🤝 Connect with Me
-*   **LinkedIn:** [Sanga Krishna Shashanth]([https://linkedin.com](https://www.linkedin.com/in/krishna -shashanth-sanga-14bb57343))
+*   **LinkedIn:** [Sanga Krishna Shashanth]([https://linkedin.com](https://www.linkedin.com/in/krishnashashanth-sks))
 *   **Email:** sangakrishnashashanth@gmail.com
 
 "The best way to predict the future is to invent it." 🚀
