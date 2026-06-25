@@ -23,7 +23,7 @@ I am passionate about building intelligent systems, training neural networks, an
 ---
 
 ### 🤝 Connect with Me
-*   **LinkedIn:** [Sanga Krishna Shashanth]([https://linkedin.com](https://www.linkedin.com/in/krishnashashanth-sks))
+*   **LinkedIn:** [Sanga Krishna Shashanth](https://www.linkedin.com/in/krishnashashanth-sks)
 *   **Email:** sangakrishnashashanth@gmail.com
 
 "The best way to predict the future is to invent it." 🚀
